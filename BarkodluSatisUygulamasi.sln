@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarkodluSatisUygulamasi", "BarkodluSatisUygulamasi\BarkodluSatisUygulamasi.csproj", "{8EF3C16B-4515-4D19-9219-3DACB434A0E8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BarkodluSatisSetup", "BarkodluSatisSetup\BarkodluSatisSetup.vdproj", "{BC877306-C692-4076-A15F-16DB08693A38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EF3C16B-4515-4D19-9219-3DACB434A0E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EF3C16B-4515-4D19-9219-3DACB434A0E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EF3C16B-4515-4D19-9219-3DACB434A0E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EF3C16B-4515-4D19-9219-3DACB434A0E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC877306-C692-4076-A15F-16DB08693A38}.Debug|Any CPU.ActiveCfg = Debug
+		{BC877306-C692-4076-A15F-16DB08693A38}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43B8D844-E518-4F70-A33E-03A626E3C835}
+	EndGlobalSection
+EndGlobal

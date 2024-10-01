@@ -3,7 +3,7 @@
 Sektörel olarak özel istek doğrultusunda geliştirdiğim bu masaüstü uygulaması her market ve türevi satış yapılan yerlerde kullanılabilir şekilde geliştirilmiştir
 
 ## Kazanım
-C# ile görsel kısmını yaptığım uygulamanın arka planını da sql ile gerçekleştirerek bir uygulamanın tüm işlevselliğini yaratmayı öğrendim.
+C# ile görsel ve kod kısmını yaztığım uygulamanın veri tabanını da sql ile gerçekleştirerek bir uygulamanın tüm işlevselliğini yaratmayı öğrendim.
 
 ## İçindekiler
 - ### Giriş Sayfası

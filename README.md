@@ -31,8 +31,6 @@ C# ile görsel kısmını yaptığım uygulamanın arka planını da sql ile ger
 - Rapor alıp arşivleyebileceğimiz sayfamız
   * ![Rapor](https://github.com/user-attachments/assets/11ebb8a8-0553-482a-8de1-55baf75203fe)
 
-## Kurulum
-- İsterseniz direkt setup yükleyip kurabilirsiniz.
   
   
 
